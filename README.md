@@ -1,4 +1,4 @@
-# PencilProgressBar
+# PencilLoader
 Use this pencilLoader for showing custom loader on android dialogs.
 
 # Build
