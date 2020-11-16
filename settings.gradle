@@ -1,0 +1,3 @@
+include ':PencilLoader'
+include ':app'
+rootProject.name = "AvatarStac"
