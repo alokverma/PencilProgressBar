@@ -40,7 +40,13 @@ Add it in your root build.gradle at the end of repositories:
               />
 
 You can pass loader color , loader animation duration and stroke according to your need.
-   
+
+you can call showProgress() method to display the loader and hideProgress() method to hide the loader.
+	
+	  val PencilLoader = findViewById<PencilLoader>(R.id.pencil)
+	  PencilLoader.showProgress()
+	  PencilLoader.hideProgress()
+	  
   
  # Demo 
   <p align="center">
