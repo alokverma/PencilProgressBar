@@ -1,6 +1,12 @@
 # PencilLoader
 Use this pencilLoader for showing custom loader on android dialogs.
 
+ # Demo 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/7018540/99263341-0cf26a00-2845-11eb-94a4-8ad578ad29ad.gif" width="350" title="userprofile">
+  </p>
+
+
 # Build
 
 Step 1. Add the JitPack repository to your build file
@@ -48,9 +54,5 @@ you can call showProgress() method to display the loader and hideProgress() meth
 	  PencilLoader.hideProgress()
 	  
   
- # Demo 
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/7018540/99263341-0cf26a00-2845-11eb-94a4-8ad578ad29ad.gif" width="350" title="userprofile">
-  </p>
 
   
